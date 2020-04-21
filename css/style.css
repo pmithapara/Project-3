@@ -1,0 +1,96 @@
+#wrapper {
+  width: 960px;
+  margin: 0 auto;	
+  background-color: #DCDCDC;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #383838;
+  position: relative;
+}
+
+#onpage:visited {
+  background-color: #DCDCDC;
+  color: #686868;
+}
+
+nav {
+  background-color: #686868; 
+  position: relative;
+}
+
+nav#horz ul {
+  list-style-type: none;
+  padding-top: 15px;
+  margin: 0;
+  overflow: hidden;	
+}
+
+nav#horz ul li {
+  display: inline-table;
+  margin: 0 15px;	
+  position: relative;	
+}
+
+nav#horz ul li a {
+  display: block;
+  background-color: #686868;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  width: 100px;
+  padding: 10px 0px 30px 0px;
+  border-radius: 4px;	
+}
+
+nav#horz ul li a:hover {
+  background-color: #585858; 	
+}
+
+p a {
+  color: #0099CC;
+  text-decoration: none;	
+}
+
+p a:hover {
+  color: #0033CC;	  	
+}
+
+ul {
+  list-style-type: none;
+}
+
+#picture {
+	width: 55%;
+	border-radius: 12px;
+	border: 2px solid #ddd;
+	padding: 2px;
+	position: relative;
+}
+	
+#education {
+  float: left;
+  text-align: left;
+  position: relative;
+  margin-left: 10px;	
+}
+
+#skill {
+  float: right;
+  margin: 40px 10px 0 100px;	
+  text-align: right;
+	position: relative;
+}
+
+#work {
+  margin-top: 50px;
+  margin-left: 10px;
+  float: left;
+  text-align: left;	
+}
+
+#volunteer {
+  margin: 930px 10px 10px 0;	
+  padding-bottom: 10px;
+  text-align: right;  	
+}
+
