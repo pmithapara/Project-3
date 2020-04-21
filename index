@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Informative page about Priyank Mithapara</title>
+  <link rel="stylesheet" media="screen" href="css/normalize.css">
+  <link rel="stylesheet" media="screen" href="css/style.css">
+</head>
+ 
+<body>
+  <div id="wrapper">
+    <nav id="horz">
+      <ul>
+        <li><a href="#">Professional Resume</a></li>
+        <li><a href="Uttarayan.html">Kite Festival</a></li>
+        <li><a href="Onepiece.html">Anime</a></li> 
+        <li><a href="map.html">Map</a></li>		
+      </ul>      
+    </nav>
+	
+    <header> 
+      <h1><strong>Educational and Work related background of Priyank Mithapara.</strong></h1>
+    </header>
+	
+    <img id="picture" src="img/Photo.jpg" alt="Profile Photo" />
+  
+    <div id="education">
+      <section>
+        <h2><strong>Education</strong></h2>
+          <ul>
+            <li>I have recevied my high school diploma from <strong>Hoffman Estate High School</strong>. January 2014 was the year I joined Hoffman Estate and as of May of 2017, I graduated with a diploma.</li>
+            <li>August 2017 was when I joined <strong>William Rainey Harper College</strong> - a communited college located in Palatine. There I received my associate in science and arts as of May 2019.</li>
+            <li>Initially, I was started of as a pre-med student. Since high school, I was really eager to study medicine and become a surgeon. Therefore, I went to Loyola University starting of the fall semester in 2019. I had the idea of how long this process will take, but then I experienced it went to Loyola what's its like to be in a medical feild; moveover, I knew it then that this is not something I wanted to do.</li>
+            <li>As the spring semester of 2020, I transfered from Loyola to <strong>Illinois Instittue of Technology</strong> to major into Information Technology and Managment</li>
+          </ul>
+	  </section>
+    </div>
+  
+    <div id="skill">
+     <section>
+        <h2><strong>Skills</strong></h2>
+          <ul>
+            <li>Technology:</li>
+          </ul>
+	 
+        <p>Programming language Beginner level - Java, Python, Linux and HTML</p>
+        <p>Hardware - Working on a project where we take apart a CPU and than rebuild it.</p>
+	  </section>
+    </div>
+
+    <div id="work">
+      <section>
+        <h2><strong>Other:</strong></h2>
+        <p>Languages - Fluent in English, Hindi and Gujarati.</p>
+        <p>Interpersonal Skills - Critical Thinking, Teamwork, Communication, Organization, Leadership, Time management and Problem Solving.</p>
+        <p>In Between the process of becoming a certified phlebotomist.</p>
+	  </section>
+    </div>
+	
+    <div id="volunteer">
+      <section> 
+        <h2><strong>Volunteering Experience</strong></h2>
+        <p><strong>St.Alexius Medical Center, Hoffman Estates, IL</strong></p>
+          <ul>
+            <li>Volunteered for more than 65 hours.</li>
+	        <li>Worked around elderly patient who needed assistance to move from their room to a different location.</li>
+	        <li>Guided visitors to the approprate room or places they have to go to in order to pick up their medicine</li>
+	        <li>Generated and reviewed incident reports, including actualizing appropriate corrective action plan to mitigate ongoing and potential situations.</li>
+          </ul>
+	  
+        <p><strong>Friendship Village, Schaumburg, IL</strong></p>
+          <ul>
+            <li>Volunteered for 20 hours.</li>
+            <li>Guided and helped elderly residences to play bowling.</li>
+            <li>I and other volunteers, assisted and pass the bowling ball to the residences.</li>
+            <li>Onces they have rolled the ball, volunteers on the other side were picking the pins up and putting them back.</li>
+	      </ul>
+	  </section>
+    </div>
+  </div>
+	
+	
+</body>
+
+</html>
