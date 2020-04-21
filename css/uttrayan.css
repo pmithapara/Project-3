@@ -1,4 +1,108 @@
+@media screen and (min-width: 200px) {
+body {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background: radial-gradient(#e66465, #9198e5);	
+  font-family: 'Ubuntu', sans-serif;
+}
 
+#onpage:visited {
+  background-color: #993333;	
+}
+
+nav {
+  background-color: #660033;
+  position: relative;	  
+}
+
+nav#horz ul {
+  list-style-type: none;
+  padding-top: 15px;
+  margin: 0;
+  overflow: hidden;	
+}
+
+nav#horz ul li {
+  display: inline-table;
+  margin: 0 15px;	
+}
+
+nav#horz ul li a {
+  display: block;
+  background-color: #660033;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  width: 60px;
+  padding: 1px 0px 10px 0px;
+  border-radius: 4px;	
+}
+
+nav#horz ul li a:hover {
+  background-color: #993333; 	
+}
+
+h1 {
+  font-size: 1.5em;
+  color:#480000;
+}
+
+h2 {
+  color: #600000;  
+  font-weight: bold;	
+  margin-bottom: 30px;
+  font-size: 15px;
+}
+
+.images {
+  width: 270px;
+  height: 200px;
+  float: none;
+  margin-left: 5px; 
+  position: relative;	
+  box-shadow: 3px 5px 10px;  
+}
+
+#unique {
+  margin-bottom: 50px;
+  padding-left: 0px;
+  position: relative;
+}
+
+#emotion {
+  margin-bottom: 50px;	
+  padding-left: 0px;
+  position: relative;
+}
+
+#emotions {
+  margin-bottom: 50px;
+  padding-left: 0px;	
+  position: relative;
+}
+
+#tool {
+  margin-bottom: 50px;
+  padding-left: 0px;	
+  position: relative;
+}
+
+#city {
+  padding-bottom: 20px;	
+  padding-left: 0px;
+  position: relative;
+}
+
+p {
+  font-size: 80%;
+  position: relative;
+  color: #990033;
+}
+	
+}
+
+@media screen and (min-width: 960px) {
 body {
   margin-left: auto;
   margin-right: auto;
@@ -52,6 +156,7 @@ h2 {
   color: #600000;  
   font-weight: bold;	
   margin-bottom: 30px;
+  font-size: 35px;
 }
 
 .images {
@@ -94,6 +199,8 @@ h2 {
 }
 
 p {
+	font-size: 18px;
   position: relative;
   color: #990033;
+}
 }
