@@ -41,7 +41,7 @@ nav#horz ul li a {
   text-decoration: none;
   width: 100px;
   padding: 10px 0px 30px 0px;
-  border-radius: 4px;	
+  border-radius: 5px;	
 }
 
 nav#horz ul li a:hover {
@@ -59,7 +59,7 @@ p {
   color: #E0E0E0;	
   float: left;
   position: absolute;
-  margin-top: 70px;
+  margin-top: 55px;
   margin-left: 10px;
 }
 
@@ -80,7 +80,7 @@ ol {
 }
 
 iframe {
-  margin: 200px 60px 20px 0;
+  margin: 200px 0 20px 0;
   width: 400px;	
   height: 220px;
   box-shadow: 3px 10px 18px;	
